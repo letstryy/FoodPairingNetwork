@@ -6,7 +6,7 @@ Visualization of ingredient network
 
 
 * Venn diagram
-
+  ![Figure_0](figure_0.png)
  
 * Flavour network
   
