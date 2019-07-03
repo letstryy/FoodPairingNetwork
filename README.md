@@ -13,3 +13,6 @@ Visualization of ingredient network
 * Flavour network
 
 ![image](https://user-images.githubusercontent.com/14850120/56093068-c22ea480-5ee1-11e9-9711-e4cbc2f70b89.png)
+
+## Author
+Sneha Rawat [sneharawatt@gmail.com]
