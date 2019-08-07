@@ -2,6 +2,8 @@
 https://www.nature.com/articles/srep00196
 https://link.springer.com/article/10.1007/s41870-019-00277-y
 
+Link to Dataset: https://www.nature.com/articles/srep00196#supplementary-information
+
 Visualization of ingredient network
 * Bipartite graph connection between ingredient and compound
 ![compoundgraph](https://user-images.githubusercontent.com/14850120/56093063-acb97a80-5ee1-11e9-933c-1156a81d4655.png)
