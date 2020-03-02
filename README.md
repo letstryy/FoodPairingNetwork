@@ -1,6 +1,7 @@
 # FoodPairingNetwork
+## References:
 https://www.nature.com/articles/srep00196
-https://link.springer.com/article/10.1007/s41870-019-00277-y
+https://doi.org/10.1007/s41870-019-00277-y
 
 Link to Dataset: https://www.nature.com/articles/srep00196#supplementary-information
 
