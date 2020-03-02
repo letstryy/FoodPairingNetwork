@@ -1,8 +1,8 @@
 # FoodPairingNetwork
 ## References:
-https://www.nature.com/articles/srep00196
+Flavor network and the principles of food pairing: https://www.nature.com/articles/srep00196
 
-https://doi.org/10.1007/s41870-019-00277-y
+Characterize ingredient network for recipe suggestion: https://doi.org/10.1007/s41870-019-00277-y
 
 Link to Dataset: https://www.nature.com/articles/srep00196#supplementary-information
 
