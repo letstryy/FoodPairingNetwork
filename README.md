@@ -21,3 +21,4 @@ Visualization of ingredient network
 
 ## Author
 Sneha Rawat [sneharawatt@gmail.com]
+Linkedin: https://www.linkedin.com/in/sneharawatt/
